@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 129,
-    "timeWeek": 127,
+    "timeDay": 152,
+    "timeWeek": 136,
     "timeMonth": 128,
     "timeYear": 145,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 996,
-    "timeDay": 765,
-    "timeWeek": 853,
-    "timeMonth": 997,
+    "timeDay": 1101,
+    "timeWeek": 904,
+    "timeMonth": 998,
     "timeYear": 996,
     "dailyMinutesDown": {
       "2022-06-05": 16,
