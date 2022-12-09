@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/randy-poke-api.onrender.com.ico",
     "slug": "randy-poke-back",
     "status": "down",
-    "uptime": "11.93%",
-    "uptimeDay": "11.93%",
-    "uptimeWeek": "11.93%",
-    "uptimeMonth": "11.93%",
-    "uptimeYear": "11.93%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 254,
     "timeDay": 254,
     "timeWeek": 254,
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2022-12-08": 0
+      "2022-12-09": 32,
+      "2022-12-08": 15
     }
   },
   {
