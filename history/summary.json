@@ -4,9 +4,9 @@
     "url": "https://gonzalotorres.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gonzalotorres.dev.ico",
     "slug": "gonzalotorres-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 144,
     "timeMonth": 125,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 0
+    }
   },
   {
     "name": "randy-poke-back",
@@ -34,7 +36,7 @@
     "timeMonth": 2472,
     "timeYear": 2366,
     "dailyMinutesDown": {
-      "2023-02-23": 33,
+      "2023-02-23": 671,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
