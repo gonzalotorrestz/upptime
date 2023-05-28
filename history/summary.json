@@ -34,7 +34,7 @@
     "timeMonth": 256,
     "timeYear": 1355,
     "dailyMinutesDown": {
-      "2023-05-28": 34,
+      "2023-05-28": 866,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
@@ -213,9 +213,9 @@
     "url": "https://randy-poke-front.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/randy-poke-front.onrender.com.ico",
     "slug": "randy-poke",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -224,6 +224,8 @@
     "timeWeek": 357,
     "timeMonth": 374,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 0
+    }
   }
 ]
