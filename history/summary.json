@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gonzalotorres.dev.ico",
     "slug": "gonzalotorres-dev",
     "status": "down",
-    "uptime": "50.51%",
+    "uptime": "50.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.53%",
+    "uptimeYear": "31.25%",
     "time": 138,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-04-27": 30,
+      "2024-04-28": 33,
+      "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
@@ -280,13 +281,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2225,
-    "timeDay": 254,
-    "timeWeek": 4209,
-    "timeMonth": 3878,
-    "timeYear": 2446,
+    "time": 2259,
+    "timeDay": 22267,
+    "timeWeek": 7373,
+    "timeMonth": 3915,
+    "timeYear": 2509,
     "dailyMinutesDown": {
-      "2024-04-27": 30,
+      "2024-04-28": 34,
+      "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
@@ -649,8 +651,7 @@
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
-      "2023-04-30": 1440,
-      "2023-04-29": 1440
+      "2023-04-30": 1440
     }
   },
   {
@@ -665,10 +666,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 294,
-    "timeDay": 85,
-    "timeWeek": 784,
-    "timeMonth": 362,
-    "timeYear": 281,
+    "timeDay": 162,
+    "timeWeek": 758,
+    "timeMonth": 358,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2023-08-11": 88
     }
