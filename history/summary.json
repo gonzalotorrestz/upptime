@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gonzalotorres.dev.ico",
     "slug": "gonzalotorres-dev",
     "status": "down",
-    "uptime": "23.04%",
+    "uptime": "23.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-20": 47,
+      "2025-12-21": 54,
+      "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
@@ -379,8 +380,7 @@
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-22": 1440
     }
   },
   {
@@ -394,13 +394,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 3972,
-    "timeDay": 406,
-    "timeWeek": 227,
-    "timeMonth": 1882,
+    "time": 3948,
+    "timeDay": 344,
+    "timeWeek": 238,
+    "timeMonth": 1889,
     "timeYear": 4375,
     "dailyMinutesDown": {
-      "2025-12-20": 47,
+      "2025-12-21": 54,
+      "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
@@ -763,8 +764,7 @@
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-22": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/randy-poke-front.onrender.com.ico",
     "slug": "randy-poke",
     "status": "down",
-    "uptime": "99.05%",
+    "uptime": "98.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.56%",
-    "uptimeYear": "97.13%",
+    "uptimeMonth": "62.25%",
+    "uptimeYear": "96.85%",
     "time": 214,
-    "timeDay": 161,
-    "timeWeek": 150,
+    "timeDay": 124,
+    "timeWeek": 147,
     "timeMonth": 197,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-12-20": 47,
+      "2025-12-21": 54,
+      "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
