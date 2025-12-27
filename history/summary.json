@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gonzalotorres.dev.ico",
     "slug": "gonzalotorres-dev",
     "status": "down",
-    "uptime": "22.92%",
+    "uptime": "22.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-26": 51,
+      "2025-12-27": 49,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -379,8 +380,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -394,13 +394,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 3859,
-    "timeDay": 141,
-    "timeWeek": 252,
-    "timeMonth": 1890,
+    "time": 3860,
+    "timeDay": 225,
+    "timeWeek": 226,
+    "timeMonth": 1885,
     "timeYear": 4145,
     "dailyMinutesDown": {
-      "2025-12-26": 51,
+      "2025-12-27": 49,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -763,8 +764,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/randy-poke-front.onrender.com.ico",
     "slug": "randy-poke",
     "status": "down",
-    "uptime": "98.51%",
+    "uptime": "98.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.82%",
-    "uptimeYear": "95.48%",
+    "uptimeMonth": "42.54%",
+    "uptimeYear": "95.21%",
     "time": 214,
-    "timeDay": 141,
-    "timeWeek": 187,
-    "timeMonth": 199,
+    "timeDay": 232,
+    "timeWeek": 198,
+    "timeMonth": 198,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-12-26": 51,
+      "2025-12-27": 49,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
