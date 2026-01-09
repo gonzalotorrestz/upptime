@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gonzalotorres.dev.ico",
     "slug": "gonzalotorres-dev",
     "status": "down",
-    "uptime": "22.66%",
+    "uptime": "22.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-08": 52,
+      "2026-01-09": 53,
+      "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
@@ -379,8 +380,7 @@
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
-      "2025-01-10": 1440,
-      "2025-01-09": 1440
+      "2025-01-10": 1440
     }
   },
   {
@@ -394,13 +394,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3672,
-    "timeDay": 242,
-    "timeWeek": 226,
-    "timeMonth": 219,
-    "timeYear": 3940,
+    "time": 3673,
+    "timeDay": 357,
+    "timeWeek": 259,
+    "timeMonth": 224,
+    "timeYear": 3874,
     "dailyMinutesDown": {
-      "2026-01-08": 52,
+      "2026-01-09": 53,
+      "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
@@ -763,8 +764,7 @@
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
-      "2025-01-10": 1440,
-      "2025-01-09": 1440
+      "2025-01-10": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/randy-poke-front.onrender.com.ico",
     "slug": "randy-poke",
     "status": "down",
-    "uptime": "97.38%",
+    "uptime": "97.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.16%",
-    "uptimeYear": "91.92%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "91.65%",
     "time": 215,
-    "timeDay": 379,
-    "timeWeek": 272,
-    "timeMonth": 211,
-    "timeYear": 213,
+    "timeDay": 400,
+    "timeWeek": 309,
+    "timeMonth": 216,
+    "timeYear": 214,
     "dailyMinutesDown": {
-      "2026-01-08": 52,
+      "2026-01-09": 53,
+      "2026-01-08": 1440,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
