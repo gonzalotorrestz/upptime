@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gonzalotorres.dev.ico",
     "slug": "gonzalotorres-dev",
     "status": "down",
-    "uptime": "21.82%",
+    "uptime": "21.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-20": 62,
+      "2026-02-21": 60,
+      "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -379,8 +380,7 @@
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
-      "2025-02-22": 1440,
-      "2025-02-21": 1440
+      "2025-02-22": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3502,
-    "timeDay": 145,
-    "timeWeek": 205,
+    "timeDay": 216,
+    "timeWeek": 216,
     "timeMonth": 200,
     "timeYear": 3045,
     "dailyMinutesDown": {
-      "2026-02-20": 62,
+      "2026-02-21": 61,
+      "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -763,8 +764,7 @@
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
-      "2025-02-22": 1440,
-      "2025-02-21": 1440
+      "2025-02-22": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/randy-poke-front.onrender.com.ico",
     "slug": "randy-poke",
     "status": "down",
-    "uptime": "93.79%",
+    "uptime": "93.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.14%",
+    "uptimeYear": "79.87%",
     "time": 214,
-    "timeDay": 143,
-    "timeWeek": 255,
-    "timeMonth": 221,
-    "timeYear": 210,
+    "timeDay": 300,
+    "timeWeek": 272,
+    "timeMonth": 224,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-02-20": 62,
+      "2026-02-21": 61,
+      "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
