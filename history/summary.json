@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gonzalotorres.dev.ico",
     "slug": "gonzalotorres-dev",
     "status": "down",
-    "uptime": "21.71%",
+    "uptime": "21.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-26": 62,
+      "2026-02-27": 62,
+      "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
@@ -379,8 +380,7 @@
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
-      "2025-02-28": 1440,
-      "2025-02-27": 1440
+      "2025-02-28": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3502,
-    "timeDay": 207,
-    "timeWeek": 193,
-    "timeMonth": 202,
+    "timeDay": 191,
+    "timeWeek": 200,
+    "timeMonth": 197,
     "timeYear": 2980,
     "dailyMinutesDown": {
-      "2026-02-26": 62,
+      "2026-02-27": 62,
+      "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
@@ -763,8 +764,7 @@
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
-      "2025-02-28": 1440,
-      "2025-02-27": 1440
+      "2025-02-28": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/randy-poke-front.onrender.com.ico",
     "slug": "randy-poke",
     "status": "down",
-    "uptime": "93.32%",
+    "uptime": "93.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.50%",
+    "uptimeYear": "78.22%",
     "time": 214,
-    "timeDay": 203,
-    "timeWeek": 204,
+    "timeDay": 247,
+    "timeWeek": 219,
     "timeMonth": 224,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-02-26": 62,
+      "2026-02-27": 62,
+      "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
