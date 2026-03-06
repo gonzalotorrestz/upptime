@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gonzalotorres.dev.ico",
     "slug": "gonzalotorres-dev",
     "status": "down",
-    "uptime": "21.58%",
+    "uptime": "21.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 64,
+      "2026-03-06": 68,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -379,8 +380,7 @@
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
-      "2025-03-07": 1440,
-      "2025-03-06": 1440
+      "2025-03-07": 1440
     }
   },
   {
@@ -395,12 +395,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 3501,
-    "timeDay": 269,
-    "timeWeek": 210,
-    "timeMonth": 202,
+    "timeDay": 193,
+    "timeWeek": 211,
+    "timeMonth": 205,
     "timeYear": 2881,
     "dailyMinutesDown": {
-      "2026-03-05": 64,
+      "2026-03-06": 68,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -763,8 +764,7 @@
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
-      "2025-03-07": 1440,
-      "2025-03-06": 1440
+      "2025-03-07": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/randy-poke-front.onrender.com.ico",
     "slug": "randy-poke",
     "status": "down",
-    "uptime": "92.76%",
+    "uptime": "92.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "76.58%",
+    "uptimeYear": "76.30%",
     "time": 214,
-    "timeDay": 198,
-    "timeWeek": 212,
-    "timeMonth": 227,
+    "timeDay": 181,
+    "timeWeek": 203,
+    "timeMonth": 229,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-03-05": 64,
+      "2026-03-06": 68,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
